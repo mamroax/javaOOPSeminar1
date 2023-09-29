@@ -25,6 +25,6 @@ public class Main {
         VendingMachine authomat = new VendingMachineOfCola();
 //
         authomat.initProducts(prodList);
-        authomat.printProduct("Smetana");
+        authomat.printProduct("CoolCola");
     }
 }
